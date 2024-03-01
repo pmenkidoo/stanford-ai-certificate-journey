@@ -1,0 +1,7 @@
+NumExpr defaulting to 8 threads.
+HEAD https://localhost:9200/ [status:200 duration:0.033s]
+HEAD https://localhost:9200/ [status:401 duration:0.108s]
+HEAD https://localhost:9200/ [status:200 duration:0.022s]
+POST https://localhost:9200/wiki-summary/_search [status:200 duration:0.293s]
+POST https://localhost:9200/wiki-summary/_search [status:200 duration:0.052s]
+POST https://localhost:9200/wiki-summary/_search [status:200 duration:0.018s]
