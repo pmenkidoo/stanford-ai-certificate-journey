@@ -1,3 +1,4 @@
 *.ipynb_checkpoints/
 http_ca.crt
 *.log
+.gitignore
