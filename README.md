@@ -1,5 +1,5 @@
 # Stanford AI Certificate Journey
-Welcome to my repository for my Stanford AI Certificate Journey! 🚀
+Welcome to my repository during my Stanford AI Certificate Journey! 🚀
 
 In this repository, you'll find various files that I've accumulated during my journey through the Stanford AI Certificate program. 
 I'm sharing these files to help my fellow teammates and anyone else who may find them useful in their own AI learning journey.
